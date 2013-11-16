@@ -1,0 +1,24 @@
+'Exercise2' directory:
+	This directory is for the shell script assignment. 
+	In it:
+		exercise2_yixin.sh  -- shell script file
+		fluxes -- a directory contains all the input data files
+		monthly_prec -- a directory contains monthly mean precipitation 
+				(result of problem 1)
+		areal_mean_monthly_prec.txt -- areal mean of precipitation for each month
+						(result of problem 2)
+		other files or directories -- temporal files generated when running the shell script;
+					      test files
+
+'exercise_python' directory:
+	This directory is for the python assignment. 
+	In it:
+		exercise_python_yixin.py  -- python script file
+		fluxes -- a directory contains all the input data files
+		monthly_prec -- a directory contains monthly mean precipitation
+				(result of problem 1)
+	        areal_mean_monthly_prec -- areal mean of precipitation for each month
+					   (result of problem 2)
+
+
+
